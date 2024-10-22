@@ -1,13 +1,10 @@
 ---
-description: git book 연결 가이드 설명이 부실한 것 같습니다.
+description: 프론트 생존코스 수업 정리
 ---
 
-# frontend-survival
+# 프론트 생존코스 수업 정리
 
-바쁜 직장인을 위한 수업이라면, 가이드 업데이트가 필요해보입니다다.
+프론트 생존코스 수업 정리를 하고 있습니다.
 
+총 8주 과정을 정리할 예정입니다.
 
-
-
-
-study for frontend
