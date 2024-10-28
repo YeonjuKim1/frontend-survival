@@ -14,4 +14,6 @@
 
 ***
 
-* [Page 1](page-1.md)
+* [2주차\_JSX](2-\_jsx/README.md)
+  * [Page 1](2-\_jsx/page-1.md)
+  * [Page 2](2-\_jsx/page-2.md)
