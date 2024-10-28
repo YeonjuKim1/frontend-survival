@@ -11,5 +11,6 @@
   * [주간회고\_1주](1-\_/\_1.md)
 * [2주차\_JSX](page-1.md)
   * [CH01.JSX](2-\_jsx/ch01.jsx.md)
-  * [과제피드백](2-\_jsx/undefined.md)
+  * [학습 키워드](2-\_jsx/undefined.md)
+  * [과제피드백](2-\_jsx/undefined-1.md)
   * [주간회고\_2주](2-\_jsx/\_2.md)
