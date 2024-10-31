@@ -36,6 +36,16 @@ vscode에서 변경하는 걸 찾다가, 그냥 설정을 'linebreak-style': 0, 
 
 
 
+3.Module './App' was resolved to 'D:/Anne/front-survival/frontend-survival-week02/src/App.tsx', but '--jsx' is not set.
+
+음,,,,
+
+JSX가 들어간 문법은 .ts가 아니라, .tsx 라고 해줘야 한다.라고 하네.
+
+
+
+
+
 
 
 
