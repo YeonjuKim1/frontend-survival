@@ -54,8 +54,6 @@ fetch(url, options)
 
 Promise
 
-ㅂ
-
 비동기 처리 상태와 처리 결과를 관리하는 객체
 
 sync/await 역할인가?
