@@ -42,5 +42,6 @@
   * [CH02.TSyringe](external-store/ch02.tsyringe.md)
   * [CH03.Redux 따라하기](external-store/ch03.redux.md)
   * [CH04.usestore-ts](external-store/ch04.usestore-ts.md)
-  * [과제](external-store/undefined.md)
+  * [학습 키워드](external-store/undefined.md)
+  * [과제](external-store/undefined-1.md)
   * [주간회고\_6주](external-store/_6.md)
