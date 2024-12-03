@@ -6,8 +6,6 @@ SOC : Seperation Of Concern
 
 분리하라는 말,,
 
-"나는 이렇게 분리하는 편이다." 이런 걸 가르쳐 주면 좋을 거 같다.&#x20;
-
 
 
 * Layered Architecture
